@@ -1,0 +1,7 @@
+h1 {
+    color:hotpink; 
+    margin: 10px; 
+    border:1px dashed blue; 
+    padding:5px;
+    display:inline-block;
+}
